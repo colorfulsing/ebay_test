@@ -3,3 +3,5 @@ seeder:
 parsers:
   - file: ./parsers/products.rb
     page_type: products
+  - file: ./parsers/single_product.rb
+    page_type: single_product
